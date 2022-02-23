@@ -3,7 +3,7 @@
 'Full Stack Dev, since 2021. Curious, since 1987.'
 
 - I’m living in 🇧🇷 Northeast :sunglasses: :surfer: ...
-- 📚 I’m currently full stack web developer student in Trybe ...
+- 📚 I’m currently full stack web developer student in [Trybe](https://www.betrybe.com/) :rocket: ...
 - 👾 I’m looking to collaborate on dataScience && dev-web community ...
 
 <!--Github-Status-->
@@ -21,11 +21,10 @@
   <img align="center" alt="Icon-Js" height="38" width=42" src="https://img.icons8.com/dusk/344/javascript-logo.png">
   <img align="center" alt="Icon-HTML" height="38" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Icon-CSS" height="40" width="42" src="https://img.icons8.com/dusk/344/css3.png">
-  </div><br>
-                                                                                                          
-#### 👤 How to reach me :
-                                                                                                          
-<!--icones - redes sociais-->                                                                                                          
+  </div><br>                                                                                                        
+                                                                                                        
+<!--icones - redes sociais-->
+#### 👤 How to reach me :                                                                                                          
 <div> 
   <a href="https://www.instagram.com/deoliveira_jr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href = "mailto:deoliveirajr1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
