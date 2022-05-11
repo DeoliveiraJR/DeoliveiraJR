@@ -1,6 +1,6 @@
 ### Hi there, 'Live long and prosper' 🖖🏽
 
-'Full Stack Dev, since 2021. Curious, since 1987 👶🏼'
+'Full Stack Dev, since 2022. Curious, since 1987 👶🏼'
 
 - I’m living in 🇧🇷 Northeast :sunglasses: :surfer: ...
 - 📚 I’m currently full stack web developer student in [Trybe](https://www.betrybe.com/) :rocket: ...
