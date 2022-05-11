@@ -21,8 +21,8 @@
   <img align="center" alt="Icon-Git" height="38" width="42" src="https://img.icons8.com/color/344/git.png">
   <img align="center" alt="Icon-Js" height="38" width=42" src="https://img.icons8.com/dusk/344/javascript-logo.png">
   <img align="center" alt="Icon-HTML" height="38" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Icon-CSS" height="40" width="42" src="https://w7.pngwing.com/pngs/235/872/png-transparent-react-computer-icons-redux-javascript-others-logo-symmetry-nodejs-thumbnail.png">
-  <img align="center" alt="Icon-React" height="40" width="42" src="https://img.icons8.com/dusk/344/css3.png">
+  <img align="center" alt="Icon-CSS" height="40" width="42" src="https://img.icons8.com/dusk/344/css3.png">
+  <img align="center" alt="Icon-React" height="40" width="42" src="https://cdn-icons-png.flaticon.com/512/3334/3334886.png">
   </div>                                                                                                        
                                                                                                         
 <!--icones - redes sociais-->
